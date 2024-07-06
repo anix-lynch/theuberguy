@@ -1,0 +1,21 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "trekhleb",
+    "Oleksii",
+    "predeploy",
+    "gatsbyjs",
+    "gtag",
+    "prismjs",
+    "reactflow",
+    "Graphi",
+    "tabnine"
+  ],
+  "ignorePaths": [
+    ".git",
+    "node_modules",
+    "dist",
+    "build"
+  ]
+}
